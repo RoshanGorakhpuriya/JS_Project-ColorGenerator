@@ -1,0 +1,1 @@
+/* Generate a random color and fill the box with that color */
